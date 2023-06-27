@@ -39,7 +39,7 @@ const FormingInputs = () => {
         <input type="text" value={result} disabled />
         <br />
         <button type="submit" onClick={calculatePower}>
-          Submitu
+          Submit
         </button>
       </div>
     </div>
